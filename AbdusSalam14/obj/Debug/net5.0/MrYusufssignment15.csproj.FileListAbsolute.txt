@@ -1,0 +1,5 @@
+C:\Users\fareed\Desktop\MrYusufssignment15\obj\Debug\net5.0\MrYusufssignment15.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\MrYusufssignment15\obj\Debug\net5.0\MrYusufssignment15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\MrYusufssignment15\obj\Debug\net5.0\MrYusufssignment15.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\MrYusufssignment15\obj\Debug\net5.0\MrYusufssignment15.AssemblyInfo.cs
+C:\Users\fareed\Desktop\MrYusufssignment15\obj\Debug\net5.0\MrYusufssignment15.csproj.CoreCompileInputs.cache

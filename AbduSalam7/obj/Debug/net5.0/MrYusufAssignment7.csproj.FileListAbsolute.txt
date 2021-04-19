@@ -1,0 +1,16 @@
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.exe
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.deps.json
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.runtimeconfig.json
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.dll
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\ref\MrYusufAssignment7.dll
+C:\Users\fareed\Desktop\MrYusufAssignment7\bin\Debug\net5.0\MrYusufAssignment7.pdb
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.AssemblyInfo.cs
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.dll
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\ref\MrYusufAssignment7.dll
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.pdb
+C:\Users\fareed\Desktop\MrYusufAssignment7\obj\Debug\net5.0\MrYusufAssignment7.genruntimeconfig.cache

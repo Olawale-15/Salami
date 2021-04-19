@@ -1,0 +1,16 @@
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.exe
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.deps.json
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.runtimeconfig.json
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.dll
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\ref\Mryusufssinngment20.dll
+C:\Users\fareed\Desktop\Mryusufssinngment20\bin\Debug\net5.0\Mryusufssinngment20.pdb
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.AssemblyInfo.cs
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.dll
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\ref\Mryusufssinngment20.dll
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.pdb
+C:\Users\fareed\Desktop\Mryusufssinngment20\obj\Debug\net5.0\Mryusufssinngment20.genruntimeconfig.cache

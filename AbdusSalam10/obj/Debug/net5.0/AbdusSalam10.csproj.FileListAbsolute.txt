@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.exe
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.deps.json
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.runtimeconfig.json
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.runtimeconfig.dev.json
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.dll
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\ref\AbdusSalam10.dll
+C:\Users\user\Desktop\AbdusSalam10\bin\Debug\net5.0\AbdusSalam10.pdb
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.AssemblyInfo.cs
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.dll
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\ref\AbdusSalam10.dll
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.pdb
+C:\Users\user\Desktop\AbdusSalam10\obj\Debug\net5.0\AbdusSalam10.genruntimeconfig.cache

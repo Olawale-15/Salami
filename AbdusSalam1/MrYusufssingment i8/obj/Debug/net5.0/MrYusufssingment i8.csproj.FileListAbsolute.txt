@@ -1,0 +1,16 @@
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.exe
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.deps.json
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.runtimeconfig.json
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.dll
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\ref\MrYusufssingment i8.dll
+C:\Users\fareed\Desktop\MrYusufssingment i8\bin\Debug\net5.0\MrYusufssingment i8.pdb
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.AssemblyInfo.cs
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.dll
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\ref\MrYusufssingment i8.dll
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.pdb
+C:\Users\fareed\Desktop\MrYusufssingment i8\obj\Debug\net5.0\MrYusufssingment i8.genruntimeconfig.cache
